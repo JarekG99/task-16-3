@@ -1,0 +1,23 @@
+{
+  "name": "task-16-3",
+  "version": "1.0.0",
+  "description": "Webpack 1st configuration",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarekG99/task-16-3.git"
+  },
+  "author": "jg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarekG99/task-16-3/issues"
+  },
+  "homepage": "https://github.com/JarekG99/task-16-3#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
